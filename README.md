@@ -4,7 +4,7 @@
 ### Тех. характеристики консоли:
 
 - **Процессор:** Rockchip RK3126C - 4 ядра Cortex-A7 - видеоядро Mali-400 MP2.
-- **Оперативная память:** 256MB DDR3 - Samsung K4B1G0846F-HCH9 - 2 чипа по 128MB DDR3, работающих в 1333 МГц.
+- **Оперативная память:** [256MB DDR3 - Samsung K4B1G0846F-HCH9 - 2 чипа по 128MB DDR3, работающих в 1333 МГц](Photos/ram.png).
 - **Встроенная память (eMMC):** [Toshiba THGBMDG5D1LBAIL - 4 GB](Photos/emmc.jpg).
 - **Дисплейный модуль:** [матрица NoName GV043WXY002LA0703SW - 40 pin - 480x272 - 4.3"](Photos/disp.jpg).
 - **Аккумулятор:** [Li-Polymer LB 405267 - 2000mAh - 3.85V - 7.7Wh](Photos/battery.jpg).
