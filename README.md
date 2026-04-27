@@ -113,7 +113,7 @@ Linux rk3126c 4.4.179 (sunchip@sunchip-PowerEdge-R740) (gcc version 6.3.1 201704
 echo 6 > /sys/devices/platform/key_mode.0/key_mode
 ```
 
-- Работа стиков в режиме дублирования кристовины и ABYX включается командой:
+- Работа стиков в режиме дублирования крестовины и ABYX включается командой:
 
 ```
 echo 0 > /sys/devices/platform/key_mode.0/key_mode
