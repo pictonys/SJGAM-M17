@@ -150,3 +150,7 @@ cat /sys/devices/virtual/switch/h2w/state
 - - 2 — Подключены наушники без микрофона (трёхконтактный штекер TRS).
  
 За помощь с определением значений - спасибо [IIDarknessII](https://4pda.to/forum/index.php?showuser=2998377)!
+
+## SD слот на замену:
+
+https://ali.click/kz36h1j
