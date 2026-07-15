@@ -1,4 +1,4 @@
-![Фото](Photos/w12v04.png)
+![Фото](Photos/w12-v04.png)
 
 
 # SJGAM M17 и с чем её едят
